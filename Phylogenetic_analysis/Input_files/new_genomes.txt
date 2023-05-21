@@ -1,0 +1,3 @@
+Rhizobium_leguminosarum_BT01	XXX
+Rhizobium_sp_BT03	XXX
+Rhizobium_sp_BT04	XXX

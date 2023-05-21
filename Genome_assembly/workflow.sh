@@ -1,0 +1,5 @@
+nanopore_assembly_annotation_flye.sh nanopore_data/barcode01.fastq.gz illumina_data/BT01_S396_R1_001.fastq.gz illumina_data/BT01_S396_R2_001.fastq.gz Rhizobium_leguminosarum_BT01 8 8 pgap_input/Rhizobium_leguminosarum_BT01_template.yaml pgap_input/Rhizobium_leguminosarum_BT01_template_submol.yaml
+
+nanopore_assembly_annotation_unicycler.sh nanopore_data/barcode02.fastq.gz illumina_data/BT03_S397_R1_001.fastq.gz illumina_data/BT03_S397_R2_001.fastq.gz Rhizobium_sp_BT03 8 8 pgap_input/Rhizobium_sp_BT03_template.yaml pgap_input/Rhizobium_sp_BT03_template_submol.yaml
+
+nanopore_assembly_annotation_flye.sh nanopore_data/barcode03.fastq.gz illumina_data/BT04_S398_R1_001.fastq.gz illumina_data/BT04_S398_R2_001.fastq.gz Rhizobium_sp_BT04 8 8 pgap_input/Rhizobium_sp_BT04_template.yaml pgap_input/Rhizobium_sp_BT04_template_submol.yaml
